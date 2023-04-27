@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy estudiando **Python y Desarrollo Web.**
 
-- 💬 Ask me about **Python, HTML, CSS y JavaScript.**
+- 💬 Pregúntame sobre **Python, HTML, CSS y JavaScript.**
 
 - 📫 Contáctame en **antonyetr@outlook.com**
 
