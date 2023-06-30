@@ -7,10 +7,11 @@
 
 - 📫 Contáctame en **antonyetr@outlook.com**
 <h3 align="left">My projects:</h3>
-<a href = "https://ntonytr.github.io/Landing-page/" target="blank" align="left"> Landing Page </a>
-<a href = "https://ntonytr.github.io/rock_paper_scissors/" target="blank" align="left"> Rock, Paper, Scissors </a>
-<a href = "https://ntonytr.github.io/sketch/" target="blank" align="left"> Pixel Sketch </a>
-
+<ul>
+<li><a href = "https://ntonytr.github.io/Landing-page/" target="blank" align="left"> Landing Page </a></li>
+<li><a href = "https://ntonytr.github.io/rock_paper_scissors/" target="blank" align="left"> Rock, Paper, Scissors </a></li>
+<li><a href = "https://ntonytr.github.io/sketch/" target="blank" align="left"> Pixel Sketch </a></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antonytr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonytr" height="30" width="40" /></a>
