@@ -6,10 +6,10 @@
 - 💬 Pregúntame sobre **Python, HTML, CSS y JavaScript.**
 
 - 📫 Contáctame en **antonyetr@outlook.com**
-<h3 align="left">Projects:</h3>
-- [Landing Page](https://ntonytr.github.io/Landing-page/)
-- [Rock, Paper, Scissors](https://ntonytr.github.io/rock_paper_scissors/)
-- [Pixel Sketch](https://ntonytr.github.io/sketch/)
+<h3 align="left">My projects:</h3>
+<a href = "https://ntonytr.github.io/Landing-page/" target="blank" align="left"> Landing Page </a>
+<a href = "https://ntonytr.github.io/rock_paper_scissors/" target="blank" align="left"> Rock, Paper, Scissors </a>
+<a href = "https://ntonytr.github.io/sketch/" target="blank" align="left"> Pixel Sketch </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
