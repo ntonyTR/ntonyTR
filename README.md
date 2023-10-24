@@ -10,8 +10,9 @@
 <ul>
   <li><a href = "https://ntonytr.github.io/calculator/" target="blank" align="left"> Calculator </a></li>
   <li><a href = "https://ntonytr.github.io/sketch/" target="blank" align="left"> Pixel Sketch </a></li>
-  <li><a href = "https://ntonytr.github.io/rock_paper_scissors/" target="blank" align="left"> Rock, Paper, Scissors </a></li>
-  <li><a href = "https://ntonytr.github.io/Landing-page/" target="blank" align="left"> Landing Page </a></li>
+  <li><a href = "https://ntonytr.github.io/form/" target="blank" align="left"> Form</a></li>
+  <li><a href = "https://ntonytr.github.io/dashboard/" target="blank" align="left"> Dashboard </a></li>
+    <li><a href = "https://ntonytr.github.io/rock_paper_scissors/" target="blank" align="left"> Rock, Paper, Scissors </a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
